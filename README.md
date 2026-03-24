@@ -18,4 +18,4 @@ A game where you need to investigate and find a way to clear the level, each lev
 - Using brackeyes art assets
 
 ## OBS
-This was created when chatgpt was relatively new so not a sinle line is written with the help of LLM!
+This was created when chatgpt was relatively new so not a single line is written with the help of LLM!
